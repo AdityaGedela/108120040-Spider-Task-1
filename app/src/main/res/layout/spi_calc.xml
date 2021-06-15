@@ -49,6 +49,7 @@
         android:layout_height="80dp"
         android:gravity="center"
         android:hint="Result"
+        android:textColor="#DD2C00"
         android:textSize="22sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
